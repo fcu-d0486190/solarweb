@@ -4,6 +4,7 @@ import router from "./router";
 import "bootstrap";
 import "popper.js";
 import "./assets/app.scss";
+import "font-awesome/css/font-awesome.css";
 Vue.config.productionTip = false;
 
 new Vue({
